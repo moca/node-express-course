@@ -12,7 +12,7 @@
     "url": "git+https://github.com/moca/node-express-course.git"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.1"
   },
   "keywords": [],
   "author": "Arturo Mondragon <arturo@ahuacatl.org> (http://moca.github.io)",
